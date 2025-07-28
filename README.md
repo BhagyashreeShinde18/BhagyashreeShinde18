@@ -1,9 +1,7 @@
                                                         Hi, 👋 I’m Bhagyashree Shinde 
 
-- 💬 **Ask me** about Html,Css,PHP,Javascript,Wordpress,Woocommerce,Shopify
-- 📫 How to **reach me** : b18shinde@gmail.com
-<hr>
-⚡ **My Technologies**<br>
+**Reach me** : b18shinde@gmail.com<br>
+⚡ <b>My Technologies</b><br>
 - Html<br>
 - Css<br>
 - PHP<br>
