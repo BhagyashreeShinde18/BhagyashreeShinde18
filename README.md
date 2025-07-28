@@ -1,16 +1,16 @@
                                                         Hi, 👋 I’m Bhagyashree Shinde 
 
-- 🌱 I’m currently learning spring Framework
-- 💬 Ask me about Java, JSP, Servlet
+- 💬 Ask me about Html,Css,PHP,Javascript,Wordpress,Woocommerce,Shopify
 - 📫 How to reach me : b18shinde@gmail.com
 <hr>
 ⚡ My Technologies
-
+- Html
+- Css
 - PHP
-- Java
-- HTML5
-- CSS
-- JavaScript
-- WordPress
-- Bootstrap
-- Laravel
+- Javascript
+- Wordpress
+- Woocommerce
+- Shopify
+- Elementor
+- Theme Developement
+- Plugin Developement
